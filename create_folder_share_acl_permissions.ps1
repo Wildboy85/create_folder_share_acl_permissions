@@ -2,6 +2,8 @@
 # make new shares
 # set permissions
 
+# git test
+
 $scriptPath = split-path -parent $MyInvocation.MyCommand.Definition
 $scriptname = split-path -leaf $MyInvocation.MyCommand.Definition
 $Logfilename = $scriptname + "_log.txt"
