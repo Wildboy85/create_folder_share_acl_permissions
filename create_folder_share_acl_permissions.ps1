@@ -2,7 +2,7 @@
 # make new shares
 # set permissions
 
-# git test
+# third commit
 
 $scriptPath = split-path -parent $MyInvocation.MyCommand.Definition
 $scriptname = split-path -leaf $MyInvocation.MyCommand.Definition
